@@ -18,7 +18,8 @@ This is a simple **Food Delivery** website built using HTML and CSS. It features
 
 - **HTML5**: For the structure of the webpage.
 - **CSS3**: For the styling of the webpage.
-- **Responsive Design**: Uses `@media` queries for a better experience on different screen sizes.
+- **Responsive Design**: Uses `@media` queries for a better
+ experience on different screen sizes.
 
 ## Installation
 
@@ -51,4 +52,4 @@ You can customize the following to personalize the website further:
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the (https://meenakshibathuluri.github.io/FoodDelivery/).
